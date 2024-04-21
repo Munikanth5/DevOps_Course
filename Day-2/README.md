@@ -6,7 +6,7 @@
 
 
 
-![image](https://github.com/Munikanth5/DevOps_Course/assets/30904324/5c626cbd-a8ec-4fad-8594-d8b76e3406be)
+
 
 
 
